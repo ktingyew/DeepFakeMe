@@ -1,4 +1,4 @@
-# DeepFakeMe
+# DeepFakeMe :robot:
 
 In this notebook, I deepfaked myself by adapting from a demonstration from the paper *First Order Motion Model for Image Animation*. You can find more information [here](https://aliaksandrsiarohin.github.io/first-order-model-website/) in their website.
 
