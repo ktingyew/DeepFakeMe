@@ -7,4 +7,4 @@ I was inspired from this YouTube video titled *[How It's Memed: First Order Moti
 
 Google Colab demo, from which I adapted and modified from, can be found [here](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=SB12II11kF4c).
 
-![Alt Text]
+![Alt Text](https://github.com/ktingyew/DeepFakeMe/blob/master/output.gif)
